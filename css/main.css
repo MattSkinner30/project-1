@@ -2,6 +2,7 @@
 		#cc3865 - magenta
 		#b2a215 - Yellow-beige
 		#c5b844 - Border
+		#ffe524 - Header Yellow
 
 		*/
 
@@ -21,11 +22,11 @@ html {
 
 
 header {
-	background-color: yellow
+	background-color: #ffe524;
 }
 
 h1 {
-	background-color: yellow;
+	background-color: #ffe524;
 	text-align: center;
 	margin: 0;
 	padding-top: 0.5em;
@@ -93,4 +94,16 @@ figure {
 
 img {
 	width: 100%;
+}
+
+dd {
+	margin: 0;
+}
+
+dt{
+	font-weight: bold;
+}
+
+footer {
+	background-color: #ffe524;
 }
