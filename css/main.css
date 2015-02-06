@@ -29,8 +29,13 @@ h1 {
 	background-color: #ffe524;
 	text-align: center;
 	margin: 0;
-	padding-top: 0.5em;
+	padding-top: 0.15em;
 	color: #cc3865;
+}
+
+h1, h2, h3 {
+	color: #cc3865;
+	font-family: 'Sigmar One', cursive;
 }
 
 nav {
@@ -89,7 +94,14 @@ figure {
 	border-radius: 0.5em;
 	padding: 0.5em;
 	background-color: #fffce0;
+}
 
+figcaption {
+	text-align: center;
+}
+
+.vc{
+	text-align: center;
 }
 
 img {
@@ -106,4 +118,13 @@ dt{
 
 footer {
 	background-color: #ffe524;
+	padding: 1em;
 }
+
+ footer p {
+ 	text-align: center;
+ }
+
+ footer a {
+ 	color: #cc3865;
+ }
