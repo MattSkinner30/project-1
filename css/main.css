@@ -38,6 +38,10 @@ h1, h2, h3 {
 	font-family: 'Sigmar One', cursive;
 }
 
+h3 {
+	font-size: 1.1rem;
+}
+
 nav {
 	text-align: center;
 }
@@ -98,11 +102,9 @@ figure {
 
 figcaption {
 	text-align: center;
+	font-style: italic;
 }
 
-.vc{
-	text-align: center;
-}
 
 img {
 	width: 100%;
